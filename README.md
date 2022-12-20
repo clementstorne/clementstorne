@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Clément Storne</h1>
 <h3 align="center">Développeur Fullstack en devenir</h3>
 
-- 🔭 Je travaille sur la formation [Développeur d'application - JavaScript React]([https://cctiming.fr/](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)) d'OpenClassrooms
+- 🔭 Je travaille sur la formation [Développeur d'application - JavaScript React]([https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react]) d'OpenClassrooms
 
 - 🌱 J'apprends **React**
 
