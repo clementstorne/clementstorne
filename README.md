@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, je suis Clément Storne</h1>
 <h3 align="center">Développeur Fullstack en devenir</h3>
 
-- 🔭 Je travaille sur [le site de C&C Timing](https://cctiming.fr/)
+- 🔭 Je travaille sur la formation [Développeur d'application - JavaScript React]([https://cctiming.fr/](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)) d'OpenClassrooms
 
-- 🌱 J'apprends **Tailwind et VueJS**
+- 🌱 J'apprends **React**
 
 - 👨‍💻 Retrouvez mes projets sur [https://github.com/clementstorne](https://github.com/clementstorne)
 
