@@ -9,7 +9,7 @@
 
 - 📫 Vous pouvez me contacter à **clementstorne@gmail.com**
 
-- 📄 Pour connaître mon parcours [consultez mon CV]([https://drive.google.com/file/d/1wwlyLhMFNKnr_QxXSRaiQbspmted-bdi/view?usp=sharing](https://drive.google.com/file/d/1GlGsCvEc7XoCDMRr-mtscGlVDgmLh6Tp/view?usp=share_link))
+- 📄 Pour connaître mon parcours [consultez mon CV](https://drive.google.com/file/d/1GlGsCvEc7XoCDMRr-mtscGlVDgmLh6Tp/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
