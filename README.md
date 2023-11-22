@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, je suis Clément Storne</h1>
-<h3 align="center">Développeur Fullstack en devenir</h3>
+<h3 align="center">Développeur Front-End React</h3>
 
-- 🔭 Je travaille sur la formation [Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) d'OpenClassrooms
+- 🔭 Je travaille sur le projet [Tic Tac Toe](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react](https://github.com/clementstorne/FrontendMentor-tic-tac-toe-game) de FrontendMentor
 
-- 🌱 J'apprends **TypeScript**
+- 🌱 Je cherche un poste de **développeur Front-End**
 
 - 👨‍💻 Retrouvez mes projets sur [https://github.com/clementstorne](https://github.com/clementstorne)
 
