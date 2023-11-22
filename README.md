@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Clément Storne</h1>
 <h3 align="center">Développeur Front-End React</h3>
 
-- 🔭 Je travaille sur le projet [Tic Tac Toe](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react](https://github.com/clementstorne/FrontendMentor-tic-tac-toe-game) de FrontendMentor
+- 🔭 Je travaille sur le projet [Tic Tac Toe](https://github.com/clementstorne/FrontendMentor-tic-tac-toe-game) de FrontendMentor
 
 - 🌱 Je cherche un poste de **développeur Front-End**
 
