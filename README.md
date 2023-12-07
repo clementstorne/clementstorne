@@ -5,7 +5,7 @@
 
 - 🌱 Je cherche un poste de **développeur Front-End**
 
-- 👨‍💻 Retrouvez mes projets sur [https://github.com/clementstorne](https://github.com/clementstorne)
+- 👨‍💻 Retrouvez mes projets sur [mon portfolio](https://clementstorne.dev)
 
 - 📫 Vous pouvez me contacter à **clementstorne@gmail.com**
 
