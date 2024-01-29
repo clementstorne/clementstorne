@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille sur ma première mission en tant que freelance
 
-- 🌱 Je cherche un poste de **développeur Front-End**
+- 🌱 J'apprends **NextJS**
 
 - 👨‍💻 Retrouvez mes projets sur [mon portfolio](https://clementstorne.dev)
 
