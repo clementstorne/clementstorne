@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je suis Clément Storne</h1>
 <h3 align="center">Développeur Front-End React</h3>
 
-- 🔭 Je travaille sur la refonte de mon portfolio
+- 🔭 Je travaille sur le site internet d'un créateur de mode
 
 - 🌱 J'apprends **NextJS**
 
