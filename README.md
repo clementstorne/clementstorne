@@ -3,8 +3,6 @@
 
 - 🔭 Je travaille sur mon premier SaaS
 
-- 🌱 J'apprends **NextJS**
-
 - 👨‍💻 Retrouvez mes projets sur [mon portfolio](https://clementstorne.dev)
 
 - 📫 Vous pouvez me contacter à **clementstorne@gmail.com**
